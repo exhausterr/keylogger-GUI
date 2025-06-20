@@ -1,4 +1,4 @@
-# keyloggerGUI.py
+# keylogger-GUI
 
 A simple Python keylogger with a graphical user interface (GUI) using `tkinter` and `pynput`.
 
